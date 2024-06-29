@@ -28,8 +28,3 @@ void main()
       print("\n ${employee[i].id} ${employee[i].name} ${employee[i].salary} ${employee[i].destignation}");
     }
 }
-class Employee{
-  int? id;
-  String? name,destignation;
-  double?  salary;
-}
